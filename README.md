@@ -7,7 +7,7 @@ If you don't want to enter wakatime API key each time you open a workspace, do t
         - Value: `you-wakatime-api-here` (_you can get yours from [here](https://wakatime.com/settings/api-key)_)
         - Scope: `*/*`
         ![test](/variable_example.png)
-- Step 2: Fork this repo
+- Step 2: [Fork this repo](https://github.com/gitpod-dotfiles/wakatime_api_setup/fork)
     - Copy your fork URL
     - Go to https://gitpod.io/preferences and scroll down
     - Enter the URL for the **Dotfiles** input field
